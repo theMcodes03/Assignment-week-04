@@ -52,4 +52,4 @@ This confirms the image works as expected after pulling. The container runs and 
 
 ---
 
-This task provided a practical understanding of how to share Docker images via Docker Hub. It demonstrated the workflow for building, tagging, pushing, pulling, and running container images — a crucial skill in modern DevOps practices. The process ensures that Docker images can be easily shared and reused across different environments, facilitating collaboration and efficient deployment of applications. 
+This task provided a practical understanding of how to share Docker images via Docker Hub. It demonstrated the workflow for building, tagging, pushing, pulling, and running container images a crucial skill in modern DevOps practices. The process ensures that Docker images can be easily shared and reused across different environments, facilitating collaboration and efficient deployment of applications. 
